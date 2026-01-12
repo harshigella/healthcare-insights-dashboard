@@ -1,13 +1,13 @@
 # Healthcare Insights Dashboard using Power BI
 
 ## Executive Summary
-This project uses Power BI to analyze hospital data, focusing on patient demographics, treatment outcomes, and costs for 1000 patients and 5 hospitals. The dashboard reveals key insights, such as optimizing treatment costs by focusing on high-recovery, cost-effective treatments and tailoring care based on patient age and gender. These insights support better decision-making, improving both patient outcomes and hospital efficiency.
+This project uses Power BI to analyze hospital data for 1000 patients across 5 hospitals. The dashboard focuses on patient demographics, treatment outcomes, and healthcare costs. The insights help identify cost-effective treatments, improve recovery outcomes, and support better operational decision-making in healthcare environments.
 
 ## Tools and Skills
 - **Power BI**: Developed dynamic visualizations and an interactive dashboard.
 - **Data Analysis**: Performed in-depth analysis of hospital and patient data to derive meaningful insights.
 - **Statistical Analysis**: Applied statistical methods to uncover trends and correlations in the data.
-- **Healthcare Domain Expertise**: Interpreted analytical results with a strong understanding of healthcare operations and patient care.
+- **Healthcare Domain Knowledge**: Interpreted analytical results with a strong understanding of healthcare operations and patient care.
 
 ## Dataset
 This project utilizes two Excel sheets containing data for 1000 patients and 5 hospitals. The dataset includes:
@@ -86,6 +86,12 @@ This dataset provides key insights into patient care, hospital operations, and f
 - **Specific Steps:**
   - Pilot alternative treatment programs for conditions typically treated with surgery, comparing outcomes and costs to existing protocols.
   - Gather data from these pilots to inform broader adoption of more cost-effective treatment strategies across the hospital.
+
+## Role & Responsibilities
+- Cleaned and transformed healthcare data using Power Query  
+- Created calculated measures and KPIs using DAX  
+- Designed interactive visuals and slicers for analysis  
+- Derived actionable business insights from dashboard findings 
 
 ## Dashboard Screenshot
 
