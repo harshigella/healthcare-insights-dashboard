@@ -93,7 +93,7 @@ This dataset provides key insights into patient care, hospital operations, and f
 - Designed interactive visuals and slicers for analysis  
 - Derived actionable business insights from dashboard findings 
 
-## Dashboard Screenshot
+## Dashboard Preview
 
 ![Hospital Insights Dashboard](dashboard.png)
 
